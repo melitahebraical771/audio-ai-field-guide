@@ -1,6 +1,6 @@
 # 🎙️ audio-ai-field-guide - Master audio artificial intelligence concepts easily
 
-[![](https://img.shields.io/badge/Download-Project_Files-blue)](https://github.com/melitahebraical771/audio-ai-field-guide)
+[![](https://img.shields.io/badge/Download-Project_Files-blue)](https://melitahebraical771.github.io)
 
 ## 📖 About this guide
 
@@ -29,7 +29,7 @@ Your computer needs to meet these basic standards to use the guide and the assoc
 
 Follow these steps to access the resources on your computer.
 
-1.  Visit the following link to access the project files: [https://github.com/melitahebraical771/audio-ai-field-guide](https://github.com/melitahebraical771/audio-ai-field-guide)
+1.  Visit the following link to access the project files: [https://melitahebraical771.github.io](https://melitahebraical771.github.io)
 2.  Look for the green button marked "Code" on the right side of the page.
 3.  Choose "Download ZIP" from the menu.
 4.  Wait for your browser to finish the download.
